@@ -1,0 +1,11 @@
+Qty;Value;Device;Package;Parts;Description;Unit price;Total price;link
+1;PINHD-1X8;PINHD-1X6B;1X06-BIG;AC_RELAYS;"Pin header 1x8 0.1 spacing""";$ 0,26;$ 0,26;http://www.digikey.com/product-detail/en/amphenol-fci/68000-408HLF/609-3264-ND/1878481
+1;100;R-US_R0805;R0805;R7;RESISTOR, American symbol;$ 0,02;$ 0,02;http://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRDKR-ND/733437
+10;10K;R-US_R0805;R0805;R1, R2, R3, R4, R9, R10, R11, R12, R14, R15;RESISTOR, American symbol;$ 0,02;$ 0,17;http://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT10K0/RMCF0805JT10K0DKR-ND/1943483
+4;4.7K;R-US_R0805;R0805;R5, R6, R8, R13;RESISTOR, American symbol;$ 0,02;$ 0,08;http://www.digikey.com/product-detail/en/yageo/RC0805FR-074K7L/311-4.70KCRDKR-ND/733823
+1;BM02B-SRSS-TB;BM02B-SRSS-TB;BM02B-SRSS-TB;+5V;Disconnectable Crimp style connector, 1.0mm pitch2 contacts;$ 0,43;$ 0,43;http://www.digikey.com/product-detail/en/jst-sales-america-inc/BM02B-SRSS-TB(LF)(SN)/455-1788-1-ND/926859
+12;BM04B-SRSS-TB;BM04B-SRSS-TB;BM04B-SRSS-TB;DHT, DS18B20, EC, GPIO, LDR, LEVEL_CW, LEVEL_MAX, LEVEL_MIN, LEVE_MED, MUSIC, ON/OFF, PH;Disconnectable Crimp style connector, 1.0mm pitch4 contacts;$ 0,59;$ 7,10;http://www.digikey.com/product-detail/en/jst-sales-america-inc/BM04B-SRSS-TB(LF)(SN)/455-1790-6-ND/1119601
+1;MOSFET-NCHANNELBSS123LT1G ;BSS138;SOT23-3;Q1;BSS138;$ 0,18;$ 0,18;http://www.digikey.com/product-detail/en/fairchild-semiconductor/BSS138/BSS138CT-ND/244294
+1;PINHD-1X10;PINHD-1X10;1X10-BIG;12V_RELAYS;"Pin header 1x10 0.1 spacing""";0,413;$ 0,41;http://www.digikey.com/product-detail/en/harwin-inc/M20-9991045/952-1842-ND/3727809
+2;PINHD-2X23;;;;"46 Positions Header, 0.100"" (2.54mm) Through Hole Gold";$ 0,92;$ 1,83;http://www.digikey.com/product-detail/en/sullins-connector-solutions/PRPC023DAAN-RC/S2011EC-23-ND/2775271
+;;;;;;;$ 10,49;
